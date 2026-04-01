@@ -1,7 +1,7 @@
 # JUMPER GAME raylib
 A simple endless runner for hours of fun.
 ## How to compile
-1. Make sure raylib library is installed ([raylib download](https://raylib.com))
+* Make sure raylib library is installed ([raylib download](https://raylib.com))
 
 ### Windows (MinGW)
 * Make sure some form of C compiler (GCC recommended) is installed
